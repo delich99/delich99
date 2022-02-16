@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @delich99
 - 👀 I’m interested in learning Coding
-- 🌱 I’m currently learning Python/C#
+- 🌱 I’m currently learning Python/Javascript
 - 💞️ I’m looking to collaborate on games
 - 📫 How to reach me... delic.aleksa10@gmail.com
 
